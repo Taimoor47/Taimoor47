@@ -149,7 +149,7 @@ Here are some ideas to get you started:
         </p>
         <p align="center">
           <a href="https://github.com/taimoor47/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=taimoor47" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=taimoor47&count_private=true" />
 <!--           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a> -->
        </p>
