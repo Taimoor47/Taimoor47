@@ -149,9 +149,9 @@ Here are some ideas to get you started:
         </p>
         <p align="center">
           <a href="https://github.com/taimoor47/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
+          <img width="49.5%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taimoor47)](https://github.com/anuraghazra/github-readme-stats)" />
+<!--           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a> -->
        </p>
      <br>
   </div>    
