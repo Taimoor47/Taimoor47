@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Taimoor 👋</h1>
-<h4 align="center">A  Blockchain And Full Stack Developer</h4>
+<h4 align="center">A  Blockchain And Bot Developer</h4>
 </div>
 
 <div align="center">
