@@ -8,16 +8,6 @@ Building software across **AI/ML, backend systems, blockchain, Web3, automation,
 
 I enjoy working on unfamiliar problems, exploring new technologies, and turning ideas into practical, reliable software.
 
-<br/>
-
-<a href="https://github.com/Taimoor47">
-  <img src="https://img.shields.io/github/followers/Taimoor47?style=flat-square&label=Followers" />
-</a>
-
-<a href="https://github.com/Taimoor47">
-  <img src="https://img.shields.io/github/stars/Taimoor47?style=flat-square&label=Stars" />
-</a>
-
 </div>
 
 ---
