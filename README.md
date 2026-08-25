@@ -11,13 +11,11 @@ I enjoy working on unfamiliar problems, exploring new technologies, and turning 
 <br/>
 
 <a href="https://github.com/Taimoor47">
-  <img src="https://img.shields.io/github/followers/Taimoor47?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Taimoor47?style=flat-square&label=Followers" />
 </a>
+
 <a href="https://github.com/Taimoor47">
-  <img src="https://img.shields.io/github/stars/Taimoor47?label=Stars&style=flat-square" />
-</a>
-<a href="https://github.com/Taimoor47">
-  <img src="https://img.shields.io/github/created-at/Taimoor47?label=GitHub%20since&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Taimoor47?style=flat-square&label=Stars" />
 </a>
 
 </div>
